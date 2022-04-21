@@ -13,7 +13,7 @@ const Download = () => {
                 source code on GitHub</p>
             </div>
             <button className={styles.btnPrimary}>
-                Source Code
+                <a href='https://github.com/Mitiolf/NFT-Marketplace'>Source Code</a>
             </button>
             <div className={styles.flexCenter}>
                 <img src={assets.scene}
