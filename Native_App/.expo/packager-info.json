@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://af-4yg.anonymous.first-react-native.exp.direct",
+  "packagerNgrokUrl": "https://af-4yg.anonymous.first-react-native.exp.direct",
+  "ngrokPid": 11924,
+  "packagerPid": null,
+  "webpackServerPort": null
+}
