@@ -2,7 +2,6 @@
 ## Landing page for my First React Native App. 
 
 I did this project mainly to familiarize myself with React Native, but also to practice my React skills.
-
 You can check mobile app code in the folder Native_App
 
 
