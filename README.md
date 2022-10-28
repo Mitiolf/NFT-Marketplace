@@ -8,13 +8,11 @@ You can check mobile app code in the folder Native_App
 
 During this project I gain knowledge about:
     
-    -React Native
-    -Tailwind
-    -Web 3.0
-    
-    
-'''
+ - React Native
+ - Tailwind
+ - Web 3.0
 
+```
 Project was made on JS Mastery classes on YouTube
 
 Build and Deploy Your First Modern React Native App | NFT Marketplace Course - Extremely Easy!
